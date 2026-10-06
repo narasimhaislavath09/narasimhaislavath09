@@ -23,6 +23,7 @@
 - 💡 Interested in practical AI use cases and real-world problem solving
 - 🤝 Open to learning opportunities, internships, and collaborative projects
 - 📫 Looking to grow through hands-on projects and continuous improvement
+- ⚛️ Fascinated by Quantum Physics and its connection to computation, intelligence, and future technologies
 
 ---
 
@@ -52,6 +53,7 @@
 - Generative AI and LLM workflows
 - AI automation and practical integrations
 - Data-driven experimentation and model evaluation
+- Quantum concepts and future computational models
 
 ---
 
@@ -104,8 +106,9 @@ I am building a career path in:
 - Deep Learning
 - Generative AI
 - AI-powered automation
+- Quantum Physics and emerging computational frontiers
 
-I am especially interested in applying AI to real-world workflow improvements, intelligent systems, and useful digital products.
+I am especially interested in applying AI to real-world workflow improvements, intelligent systems, and future technologies that connect computation with scientific discovery.
 
 ---
 
