@@ -5,28 +5,28 @@
 <h1 align="center">Narasimha Islavath</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20GenAI-blue" />
-  <img src="https://img.shields.io/badge/Learning-Python%20%7C%20AI%20%7C%20Automation-9cf" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20learning%20and%20opportunities-success" />
+  <img src="https://img.shields.io/badge/AI%2FML-GenAI%20Learner-0A66C2" />
+  <img src="https://img.shields.io/badge/Python-ML%20%7C%20Automation-3776AB" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-success" />
 </p>
 
 <p align="center">
-  I am a beginner in the field of AI, Machine Learning, and Generative AI, currently learning through hands-on projects, experimentation, and real-world automation workflows.
+  I am a beginner in AI, Machine Learning, Deep Learning, and Generative AI, currently learning by building practical projects and exploring automation workflows.
 </p>
 
 ---
 
 ## About Me
 
-- 🔭 Currently learning AI/ML, Deep Learning, and Generative AI
-- 🌱 Exploring Python, ML workflows, data handling, automation, and AI integrations
-- 💡 Interested in practical AI applications and beginner-to-intermediate project building
-- 🤝 Open to learning opportunities, internships, and collaborative tech projects
-- 📫 Looking to grow through real-world problem-solving and continuous improvement
+- 🔭 Learning AI/ML, Deep Learning, and Generative AI
+- 🌱 Exploring Python, data analysis, model experimentation, and AI automation
+- 💡 Interested in practical AI use cases and real-world problem solving
+- 🤝 Open to learning opportunities, internships, and collaborative projects
+- 📫 Looking to grow through hands-on projects and continuous improvement
 
 ---
 
-## Core Skills
+## Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -44,14 +44,14 @@
 
 ---
 
-## Learning Roadmap
+## Learning Focus
 
 - Machine Learning fundamentals
 - Deep Learning concepts
 - Natural Language Processing
 - Generative AI and LLM workflows
 - AI automation and practical integrations
-- Data analysis and model experimentation
+- Data-driven experimentation and model evaluation
 
 ---
 
@@ -63,22 +63,22 @@ A personal portfolio website built to present projects, skills, and contact info
 - Repository: [portfolio](https://github.com/narasimhaislavath09/portfolio)
 
 ### 2. AI Mail Sender with n8n
-A workflow automation project focused on AI-assisted email sending and process automation.
+An automation workflow project focused on AI-assisted email sending and process optimization.
 
 - Repository: [Mailsender-AI-Agent-n8n](https://github.com/narasimhaislavath09/Mailsender-AI-Agent-n8n)
 
 ### 3. Sensor-Based Street Light Project
-A project related to smart sensing and street-light automation.
+A smart lighting project built around sensing and automation concepts.
 
 - Repository: [B2-Sensor-Based-Street-Light](https://github.com/narasimhaislavath09/B2-Sensor-Based-Street-Light)
 
 ### 4. Git & GitHub Practice
-A repository created for learning Git/GitHub basics and version control workflow.
+A beginner repository for learning Git, GitHub, and workflow fundamentals.
 
 - Repository: [git-demo](https://github.com/narasimhaislavath09/git-demo)
 
 ### 5. Agents Course Practice
-A training repository related to exploring AI agents and foundational concepts.
+A learning repository focused on AI agents and foundational concepts.
 
 - Repository: [agents-course](https://github.com/narasimhaislavath09/agents-course)
 
@@ -105,7 +105,7 @@ I am building a career path in:
 - Generative AI
 - AI-powered automation
 
-I am especially interested in learning how AI can be applied to real-world workflows, decision-making, and useful digital tools.
+I am especially interested in applying AI to real-world workflow improvements, intelligent systems, and useful digital products.
 
 ---
 
